@@ -1,0 +1,3 @@
+template-file-path: autoscaling-stack.yaml
+parameters: {}
+tags: {}
